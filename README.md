@@ -19,13 +19,27 @@ samples, guidance on mobile development, and a full API reference.
 #Here are a few usefull android studio keyboard shortcuts: (for Windows/Linux)
 
 Save all                                  |  Control+S
+
 Synchronize	                              |  Control+Alt+Y
+
 Maximize/minimize editor	                |  Control+Shift+F12
+
 Add to favorites	                        |  Alt+Shift+F
+
 Inspect current file with current profile	|  Alt+Shift+I
+
 Find	                                    |  Control+F
+
 Find next	                                |  F3
+
 Find previous                             |  Shift+F3
+
 Replace	                                  |  Control+R
+
 Jump to source	                          |  F4 or Control+Enter
 
+flutter doctor
+flutter create
+flutter run
+flutter pub get
+flutter analyze
