@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-##Here are a few usefull android studio keyboard shortcuts: (for Windows/Linux)
+## Here are a few usefull android studio keyboard shortcuts: (for Windows/Linux)
 
 Save all  :  Control+S
 
@@ -38,19 +38,19 @@ Replace	  :   Control+R
 
 Jump to source	 :   F4 or Control+Enter
 
-##Definitions:
+## Definitions:
 
-#flutter doctor  :  
+# flutter doctor  :  
 This command helps us to check whether all the requirements of flutter properly meet or not.
 
-#flutter create  :  
+# flutter create  :  
 This command creates new project.
 
-#flutter run  :  
+# flutter run  :  
 This command runs the selected project on the device.
 
-#flutter pub get  :  
+# flutter pub get  :  
 This command downloads the packages in the current project.
 
-#flutter analyze:
+# flutter analyze:
 This command performs as a wrapper around the dartanalyzer tool.
