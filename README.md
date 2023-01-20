@@ -52,5 +52,5 @@ This command runs the selected project on the device.
 4. flutter pub get  :  
 This command downloads the packages in the current project.
 
-5. flutter analyze:
+5. flutter analyze  :  
 This command performs as a wrapper around the dartanalyzer tool.
