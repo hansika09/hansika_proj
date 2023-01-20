@@ -40,17 +40,17 @@ Jump to source	 :   F4 or Control+Enter
 
 ## Definitions:
 
-# flutter doctor  :  
+1. flutter doctor  :  
 This command helps us to check whether all the requirements of flutter properly meet or not.
 
-# flutter create  :  
+2. flutter create  :  
 This command creates new project.
 
-# flutter run  :  
+3. flutter run  :  
 This command runs the selected project on the device.
 
-# flutter pub get  :  
+4. flutter pub get  :  
 This command downloads the packages in the current project.
 
-# flutter analyze:
+5. flutter analyze:
 This command performs as a wrapper around the dartanalyzer tool.
