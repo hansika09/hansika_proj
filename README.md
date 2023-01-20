@@ -16,30 +16,37 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-#Here are a few usefull android studio keyboard shortcuts: (for Windows/Linux)
+##Here are a few usefull android studio keyboard shortcuts: (for Windows/Linux)
 
-Save all                                  |  Control+S
+Save all  :  Control+S
 
-Synchronize	                              |  Control+Alt+Y
+Synchronize	 :  Control+Alt+Y
 
-Maximize/minimize editor	                |  Control+Shift+F12
+Maximize/minimize editor  :  Control+Shift+F12
 
-Add to favorites	                        |  Alt+Shift+F
+Add to favorites	:  Alt+Shift+F
 
-Inspect current file with current profile	|  Alt+Shift+I
+Inspect current file with current profile	 :  Alt+Shift+I
 
-Find	                                    |  Control+F
+Find	 :   Control+F
 
-Find next	                                |  F3
+Find next	 :  F3
 
-Find previous                             |  Shift+F3
+Find previous  :  Shift+F3
 
-Replace	                                  |  Control+R
+Replace	  :   Control+R
 
-Jump to source	                          |  F4 or Control+Enter
+Jump to source	 :   F4 or Control+Enter
 
-flutter doctor
-flutter create
-flutter run
-flutter pub get
-flutter analyze
+##Definitions:
+
+#flutter doctor  :  
+This command helps us to check whether all the requirements of flutter properly meet or not.
+#flutter create  :  
+This command creates new project.
+#flutter run  :  
+This command runs the selected project on the device.
+#flutter pub get  :  
+This command downloads the packages in the current project.
+#flutter analyze:
+This command performs as a wrapper around the dartanalyzer tool.
